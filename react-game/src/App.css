@@ -1,0 +1,26 @@
+.player{
+  display: inline-block;
+  margin: 1vw;
+  width: 31vw;
+  height: 31vw;
+  font-size: 0.8rem;
+}
+#addPlayer{
+  display: block;
+}
+#mathDiv button{
+  width: 25%;
+}
+
+.player #mathDiv{
+  width: 80%;
+  margin-left: 10%;
+}
+
+.player button,p,h3{
+  padding-left: 5%;
+}
+#quit,#start{
+ margin-left: 5%;
+
+}
